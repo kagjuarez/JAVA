@@ -2,7 +2,7 @@ var titulo = document.getElementById('saludo');
 
 function cambiarColor (){
     titulo.classList.remove("saludo");
-    titulo.classList.add("nuevaClase")
+    titulo.classList.add("nuevaClase");
 }
 
 
